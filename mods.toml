@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="starssystem"
+version="1.0.3"
+displayName="Stars System"
+credits="The mod is in beta testing, if any errors occur, write to the official telegram channel of the developer"
+displayURL="https://t.me/tgcreatemods"
+logoFile="logo.png"
+authors="GreenCat"
+description="The mod is designed for a reward system in the form of asterisks"
+
+[[dependencies.starssystem]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
